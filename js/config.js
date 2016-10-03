@@ -1,10 +1,7 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-  'm777927708-55113ad0f1897355e3e5e703', // Website
-  'm777927701-d64da2b9ab890fca2189c2fc', // Console
-  'm777927692-bdedec8c957c6bd72f3d1659', // Forum
-  'm777993918-3e78803b3187149db9b70bfc', // Api
-  'm777994075-3ff92a4f1c2c83db0d385fb0'  // Blog
+  'm776305635-e64b69ee1f2f309809c5819b', // Website
+  'm777382274-e66e7c900ecd2bb6732a9306' // Main Server
 ];
 
 // refresh interval (in seconds)
