@@ -2,8 +2,8 @@
 var __apiKeys = [
   'm776305635-e64b69ee1f2f309809c5819b', // Website
   'm777382274-e66e7c900ecd2bb6732a9306', // Main Server
-	'm776511954-b3079981db189bc0d113584f', // stats.piratemc.com HTTP check
-	'm778221920-414b82938a2d76da86bd72dd' // Teamspeak port check
+  'm776511954-b3079981db189bc0d113584f', // stats.piratemc.com HTTP check
+  'm778221920-414b82938a2d76da86bd72dd' // Teamspeak port check
 ];
 
 // refresh interval (in seconds)
